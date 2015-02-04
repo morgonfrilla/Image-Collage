@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+}
+
+
+#main {
+	width: 80vw;
+	height: 80vh;
+	margin: 10vh 10vw 10vh 10vw;
+}
+
+
+.image {
+	float: left;
+	background-color: black;
+}
+
+
+#collage {
+	width: 80%;
+	margin-left: 10%;
+	height: 500px;
+	display: inline-block;
+	border: 1px solid blue;
+}
